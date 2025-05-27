@@ -1,5 +1,6 @@
 ---
-permalink: /.well-known/
+layout: post
+title: MTA-STS
 ---
 version: STSv1
 mode: testing
