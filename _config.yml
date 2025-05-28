@@ -1,4 +1,6 @@
+timezone: Europe/London
 theme: jekyll-theme-minimal
-title: mta-sts.vanhoutem.com
-description: Site to enable MTA-STS
-url: "http://mta-sts.vanhoutem.com"
+url: "https://mta-sts.vanhoutem.com"
+exclude: "**/mta-sts.txt"
+# title: vanhoutem.com
+# description: ""
