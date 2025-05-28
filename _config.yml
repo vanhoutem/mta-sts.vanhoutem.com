@@ -1,6 +1,0 @@
-timezone: Europe/London
-theme: jekyll-theme-minimal
-url: "https://mta-sts.vanhoutem.com"
-exclude: "**/mta-sts.txt"
-# title: vanhoutem.com
-# description: ""
